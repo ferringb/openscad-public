@@ -1,0 +1,6 @@
+[submodule "libs/constructive"]
+	path = libs/constructive
+	url = https://github.com/solidboredom/constructive/
+[submodule "libs/dovetail"]
+	path = libs/dovetail
+	url = https://github.com/hugokernel/OpenSCAD_Dovetail
