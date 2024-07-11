@@ -4,3 +4,6 @@
 [submodule "libs/dovetail"]
 	path = libs/dovetail
 	url = https://github.com/hugokernel/OpenSCAD_Dovetail
+[submodule "libs/BOSL"]
+	path = libs/BOSL
+	url = https://github.com/revarbat/BOSL
